@@ -1,3 +1,4 @@
+[sorteio lotofacil.txt](https://github.com/rodolfofavarim/sorteio_infinito_lotofacil/files/9483218/sorteio.lotofacil.txt)
 # sorteio_infinito_lotofacil
 import random
 
